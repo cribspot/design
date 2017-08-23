@@ -11,6 +11,33 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,8 +49,8 @@
     "constrainProportions": false,
     "height": 500,
     "width": 1024,
-    "x": -122,
-    "y": 168
+    "x": -55,
+    "y": 101
   },
   "grid": {
     "_class": "simpleGrid",
@@ -32,7 +59,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,32 +77,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "5679EAB9-A750-4F1E-BF9E-0E676B50A1C0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "ABA308B8-50C3-4E5F-BF87-25735D778124"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B4EA5B88-D3F8-4076-BA75-17B0173E0CFB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "54298ABA-D048-4381-A032-F9DF04979B8C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "548DB001-0D6C-40D6-BD1E-A60CBDE0FDB6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E8D5AA98-7FD7-4BBC-A1FA-0FDEE22CF0D7"
+      "class": "symbolInstance",
+      "id": "67E899F2-DF54-467E-A60B-74D513BB9147"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "CRIBSPOT",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -4,33 +4,6 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@1x",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
-        "scale": 3,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -42,8 +15,8 @@
     "constrainProportions": true,
     "height": 79.22000122070312,
     "width": 717.0081466416182,
-    "x": 153,
-    "y": 210
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -101,7 +74,7 @@
         "blurRadius": 10,
         "color": {
           "_class": "color",
-          "alpha": 0.1,
+          "alpha": 0.14,
           "blue": 0.1294117647058823,
           "green": 0.1294117647058823,
           "red": 0.1294117647058823
@@ -113,7 +86,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 10,
+        "offsetY": 8,
         "spread": 0
       }
     ],
