@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,37 +7,11 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "365B7CF0-BAFD-43DB-A0CF-D73A48CB6FC4",
+  "changeIdentifier": 47,
+  "do_objectID": "3AC51F99-C0F4-4BF8-83E8-6214A5B4B675",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@1x",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
-        "scale": 3,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -47,16 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 500,
-    "width": 1024,
-    "x": -55,
-    "y": 101
-  },
-  "grid": {
-    "_class": "simpleGrid",
-    "gridSize": 20,
-    "isEnabled": false,
-    "thickGridTimes": 10
+    "height": 80,
+    "width": 718,
+    "x": 919,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -64,24 +32,23 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      153,
-      870
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "67E899F2-DF54-467E-A60B-74D513BB9147"
+      "id": "EFF2052C-0AF7-4796-AD35-D418CB7DE539"
     }
   ],
-  "name": "CRIBSPOT",
+  "name": "CRIBSPOT-umbra",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -94,9 +61,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "8A556FCA-C04F-41DC-AD22-F3D5EC70FE1C",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 85,
+    "base": 0,
     "guides": [
     ]
   }
