@@ -47,8 +47,8 @@
       "id": "365B7CF0-BAFD-43DB-A0CF-D73A48CB6FC4"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Logos",
+  "nameIsFixed": true,
   "resizingConstraint": 0,
   "resizingType": 0,
   "rotation": 0,
