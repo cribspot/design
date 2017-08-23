@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 61,
+  "changeIdentifier": 465,
   "do_objectID": "3AC51F99-C0F4-4BF8-83E8-6214A5B4B675",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 718,
-    "x": 919,
-    "y": 0
+    "height": 33,
+    "width": 292,
+    "x": 76,
+    "y": -421
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

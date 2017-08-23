@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "5679EAB9-A750-4F1E-BF9E-0E676B50A1C0",
+  "do_objectID": "4F2DDAFA-808B-4132-B55D-3D620E131087",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,9 +12,9 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 79.22000122070312,
-    "width": 717.0081466416182,
+    "constrainProportions": false,
+    "height": 33,
+    "width": 292,
     "x": 0,
     "y": 0
   },
@@ -23,39 +23,39 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "F94F510F-02F1-4911-9DB0-B75F497F7BEC"
+      "id": "9B216C1C-B250-4360-BB54-D14FF96C4B3F"
     },
     {
       "class": "shapeGroup",
-      "id": "410A87BF-64EE-423E-9A68-FCE9B3F21315"
+      "id": "F5E18AB8-DADE-49CA-8E10-B35BA010DC41"
     },
     {
       "class": "shapeGroup",
-      "id": "3DDEA41F-3346-4B2A-A5A7-75C529CC366C"
+      "id": "9391ABA8-234A-4399-AE4F-00C0CFAC10A9"
     },
     {
       "class": "shapeGroup",
-      "id": "BB5686A1-698F-4434-B620-370C7DD6D786"
+      "id": "2616A3C7-1C9C-4829-9CB7-495CAABF8E1F"
     },
     {
       "class": "shapeGroup",
-      "id": "8DB7D7F7-2F0C-4B53-8507-38E0AA2215CB"
+      "id": "AD722A13-30A6-4217-AC34-77A1BD5DFF6F"
     },
     {
       "class": "shapeGroup",
-      "id": "EF49D45C-A4D2-4D3C-B88C-6F8FB8F8D7AD"
+      "id": "6EDB6795-D24E-4C4E-AAB2-EF65F47A655B"
     },
     {
       "class": "shapeGroup",
-      "id": "9FDA0AE9-9BC8-4F97-8B52-2B80A8B78010"
+      "id": "46692315-4AA1-43A0-8411-88E17C2B9347"
     },
     {
       "class": "shapeGroup",
-      "id": "73D415B5-B523-4079-B36B-BC96372301E6"
+      "id": "7C7E67CB-A7C6-4D08-9025-2E841383C0A3"
     }
   ],
   "name": "CRIBSPOT",

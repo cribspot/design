@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "73D415B5-B523-4079-B36B-BC96372301E6",
+  "do_objectID": "9391ABA8-234A-4399-AE4F-00C0CFAC10A9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 76.53457745050979,
-    "width": 64.45017048463978,
-    "x": 652.5579761569784,
-    "y": 1.342711885096663
+    "height": 31.06299999999999,
+    "width": 6.344000000000023,
+    "x": 85.00489999999999,
+    "y": 0.7006999999999834
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,10 +29,10 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "9BF836BB-3216-48FB-8497-5168B17ABCB2"
+      "id": "28E04787-EF58-41DD-801F-30EF5180CFE5"
     }
   ],
-  "name": "Fill 691",
+  "name": "Fill 4670",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
