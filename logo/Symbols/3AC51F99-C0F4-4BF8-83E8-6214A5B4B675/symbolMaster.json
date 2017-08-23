@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 47,
+  "changeIdentifier": 61,
   "do_objectID": "3AC51F99-C0F4-4BF8-83E8-6214A5B4B675",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "EFF2052C-0AF7-4796-AD35-D418CB7DE539"
     }
   ],
-  "name": "CRIBSPOT-umbra",
+  "name": "CRIBSPOT-shadow",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

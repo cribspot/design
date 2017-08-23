@@ -4,33 +4,6 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@1x",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
-        "scale": 3,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -51,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 13,
-  "masterInfluenceEdgeMaxYPadding": 21,
-  "masterInfluenceEdgeMinXPadding": 13,
-  "masterInfluenceEdgeMinYPadding": 5,
+  "masterInfluenceEdgeMaxXPadding": 9,
+  "masterInfluenceEdgeMaxYPadding": 15,
+  "masterInfluenceEdgeMinXPadding": 9,
+  "masterInfluenceEdgeMinYPadding": 3,
   "name": "CRIBSPOT",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -65,30 +38,8 @@
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 10,
-        "color": {
-          "_class": "color",
-          "alpha": 0.2,
-          "blue": 0.1294117647058823,
-          "green": 0.1294117647058823,
-          "red": 0.1294117647058823
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
-      }
-    ],
     "startDecorationType": 0
   },
-  "symbolID": "B4E206F0-F149-4756-9A40-512700473584",
+  "symbolID": "8A556FCA-C04F-41DC-AD22-F3D5EC70FE1C",
   "verticalSpacing": 0
 }
