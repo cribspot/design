@@ -65,8 +65,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 500,
+    "height": 80,
+    "width": 520,
     "x": 1222,
     "y": 311
   },
@@ -77,7 +77,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
