@@ -1,0 +1,193 @@
+{
+  "_class": "slice",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 1
+  },
+  "do_objectID": "4363F355-B9AC-409D-8BCD-EA9FCA8DD7A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 20,
+        "fileFormat": "png",
+        "name": "-20w@1x",
+        "namingScheme": 0,
+        "scale": 0.4166666666666667,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 40,
+        "fileFormat": "png",
+        "name": "-20w@2x",
+        "namingScheme": 0,
+        "scale": 0.8333333333333334,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 60,
+        "fileFormat": "png",
+        "name": "-20w@3x",
+        "namingScheme": 0,
+        "scale": 1.25,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 29,
+        "fileFormat": "png",
+        "name": "-29w@1x",
+        "namingScheme": 0,
+        "scale": 0.6041666666666666,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 58,
+        "fileFormat": "png",
+        "name": "-29w@2x",
+        "namingScheme": 0,
+        "scale": 1.208333333333333,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 87,
+        "fileFormat": "png",
+        "name": "-29w@3x",
+        "namingScheme": 0,
+        "scale": 1.8125,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 40,
+        "fileFormat": "png",
+        "name": "-40w@1x",
+        "namingScheme": 0,
+        "scale": 0.8333333333333334,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 80,
+        "fileFormat": "png",
+        "name": "-40w@2x",
+        "namingScheme": 0,
+        "scale": 1.666666666666667,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 120,
+        "fileFormat": "png",
+        "name": "-40w@3x",
+        "namingScheme": 0,
+        "scale": 2.5,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 120,
+        "fileFormat": "png",
+        "name": "-60w@2x",
+        "namingScheme": 0,
+        "scale": 2.5,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 180,
+        "fileFormat": "png",
+        "name": "-60w@3x",
+        "namingScheme": 0,
+        "scale": 3.75,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 76,
+        "fileFormat": "png",
+        "name": "-76w@1x",
+        "namingScheme": 0,
+        "scale": 1.583333333333333,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 152,
+        "fileFormat": "png",
+        "name": "-76w@2x",
+        "namingScheme": 0,
+        "scale": 3.166666666666667,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 167,
+        "fileFormat": "png",
+        "name": "-83.5w@2x",
+        "namingScheme": 0,
+        "scale": 3.479166666666667,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 40,
+        "fileFormat": "png",
+        "name": "-20w@2x-1",
+        "namingScheme": 0,
+        "scale": 0.8333333333333334,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 58,
+        "fileFormat": "png",
+        "name": "-29w@2x-1",
+        "namingScheme": 0,
+        "scale": 1.208333333333333,
+        "visibleScaleType": 1
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 80,
+        "fileFormat": "png",
+        "name": "-40w@2x-1",
+        "namingScheme": 0,
+        "scale": 1.666666666666667,
+        "visibleScaleType": 1
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 48,
+    "x": 0,
+    "y": 1
+  },
+  "hasBackgroundColor": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "AppIcon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}
