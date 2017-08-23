@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "FA9297CF-2F8B-409A-9DCF-A557F3621BFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 250,
+    "width": 340,
+    "x": 86,
+    "y": 131
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C0508DE8-2043-4CB8-B44E-6B1DFA500931"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D0808412-6B88-41FD-ADEC-DC5354F4F8C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "44180359-7069-4104-9CE6-108D39111A43"
+    },
+    {
+      "class": "group",
+      "id": "5942ED1D-C8EA-43B3-BAA9-18CE078D9C0A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "03B3B52A-BB3D-4438-8FC9-0139777C44D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43E2954D-0F26-4871-BCBE-4F5A23A476FD"
+    }
+  ],
+  "name": "chat-bubbles",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
