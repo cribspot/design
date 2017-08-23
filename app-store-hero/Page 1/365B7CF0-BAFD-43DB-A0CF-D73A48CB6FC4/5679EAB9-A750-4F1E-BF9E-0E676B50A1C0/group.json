@@ -1,0 +1,122 @@
+{
+  "_class": "group",
+  "do_objectID": "5679EAB9-A750-4F1E-BF9E-0E676B50A1C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 79.22000122070312,
+    "width": 717.0081466416182,
+    "x": 153,
+    "y": 210
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F94F510F-02F1-4911-9DB0-B75F497F7BEC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "410A87BF-64EE-423E-9A68-FCE9B3F21315"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3DDEA41F-3346-4B2A-A5A7-75C529CC366C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BB5686A1-698F-4434-B620-370C7DD6D786"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8DB7D7F7-2F0C-4B53-8507-38E0AA2215CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF49D45C-A4D2-4D3C-B88C-6F8FB8F8D7AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FDA0AE9-9BC8-4F97-8B52-2B80A8B78010"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73D415B5-B523-4079-B36B-BC96372301E6"
+    }
+  ],
+  "name": "cribspot",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0.1294117647058823,
+          "green": 0.1294117647058823,
+          "red": 0.1294117647058823
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 10,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}
