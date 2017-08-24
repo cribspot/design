@@ -34,6 +34,10 @@
   "layers": [
     {
       "class": "artboard",
+      "id": "1CE60497-441D-41B7-B648-1E7A6F2FA5EC"
+    },
+    {
+      "class": "artboard",
       "id": "A75D1B30-52EF-4E47-B39E-16F8B31E0050"
     },
     {
@@ -55,6 +59,10 @@
     {
       "class": "artboard",
       "id": "5D4D5C78-4B02-4798-8420-DFF078EBF0DF"
+    },
+    {
+      "class": "artboard",
+      "id": "8FBFC08D-2230-473A-A8BA-12CBE6FB1BDB"
     },
     {
       "class": "artboard",
