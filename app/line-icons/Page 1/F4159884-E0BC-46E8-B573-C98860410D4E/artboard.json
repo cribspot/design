@@ -20,9 +20,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 128,
-    "width": 128,
-    "x": 176,
+    "height": 64,
+    "width": 64,
+    "x": 112,
     "y": 0
   },
   "hasBackgroundColor": false,
