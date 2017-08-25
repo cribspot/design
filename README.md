@@ -1,6 +1,6 @@
 # Cribspot Design
 
-UI and mockups using [Sketch](https://www.sketchapp.com/) + [Kactus](https://kactus.io/).
+Repo for UI, mockups, icons, etc. Most of these were generated using [Sketch](https://www.sketchapp.com/) + [Kactus](https://kactus.io/); you'll need to download both these programs to use the designs. If you want image files, just ask Kevin or Jason and they can generate them for you.
 
 ## License
 
