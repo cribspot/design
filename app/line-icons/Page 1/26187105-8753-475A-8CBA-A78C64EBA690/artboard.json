@@ -35,7 +35,7 @@
     "y": 112
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,11 +48,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "4FD78460-BA34-4FEB-9183-DEBB34C68D5E"
+      "id": "8F545274-4580-4CD1-BCA8-3F6DD2FB0E31"
     }
   ],
   "name": "feedback",
