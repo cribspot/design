@@ -1,5 +1,5 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,11 +7,18 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 98,
-  "do_objectID": "C970D257-9204-4DCD-90AF-84A55A7E4909",
+  "do_objectID": "F450F54F-AE81-45A5-95A4-18170F1759B8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -21,13 +28,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 292,
-    "x": -276,
-    "y": -421
+    "height": 80,
+    "width": 520,
+    "x": 1222,
+    "y": 471
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -35,7 +48,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -44,11 +56,11 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "4F2DDAFA-808B-4132-B55D-3D620E131087"
+      "class": "symbolInstance",
+      "id": "21D25A1A-138C-4757-984A-9CB41A7A0B79"
     }
   ],
-  "name": "CRIBSPOT",
+  "name": "white-logo",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -61,11 +73,11 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "946F32A6-7A5F-4A8C-BD87-29A184ABA5D7",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": 85,
     "guides": [
+      -18
     ]
   }
 }

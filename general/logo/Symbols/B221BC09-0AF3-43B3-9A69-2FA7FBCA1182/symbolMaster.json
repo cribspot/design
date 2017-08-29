@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 98,
-  "do_objectID": "C970D257-9204-4DCD-90AF-84A55A7E4909",
+  "changeIdentifier": 271,
+  "do_objectID": "B221BC09-0AF3-43B3-9A69-2FA7FBCA1182",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,7 +24,7 @@
     "height": 33,
     "width": 292,
     "x": -276,
-    "y": -421
+    "y": -348
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,10 +45,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "4F2DDAFA-808B-4132-B55D-3D620E131087"
+      "id": "4B4D6581-27DC-47A2-B979-39A77B7E47C5"
     }
   ],
-  "name": "CRIBSPOT",
+  "name": "CRIBSPOT-white",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -61,7 +61,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "946F32A6-7A5F-4A8C-BD87-29A184ABA5D7",
+  "symbolID": "8C07003A-40DE-43BF-B4F0-267F3978E801",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
