@@ -22,16 +22,15 @@
     "constrainProportions": false,
     "height": 612,
     "width": 792,
-    "x": -30,
-    "y": -47
+    "x": -89,
+    "y": -42
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -513,
+    "base": 0,
     "guides": [
-      200
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -43,44 +42,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "4ACE9E9B-6D5A-42D8-8816-0553EE1FB3AC"
-    },
-    {
-      "class": "text",
-      "id": "5320A680-327B-4510-982A-98C20917F1EC"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "91E23406-B71F-4421-8CB4-EAF2E9BC141F"
-    },
-    {
-      "class": "text",
-      "id": "91CA483A-D204-405E-A7DF-3A05084361B1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F8577ED9-FB95-4111-98D4-1F839DB8F8DB"
-    },
-    {
-      "class": "bitmap",
-      "id": "609675AD-5485-4D7E-94FB-18CCB17C4174"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "AD983B8F-8545-413C-9A07-123CA4713EBB"
-    },
-    {
-      "class": "text",
-      "id": "D890C86B-0E2C-4265-BF32-E88D73C581F2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8F53CC38-0B4B-4E7E-8D92-0259DB65F4D0"
-    },
-    {
-      "class": "text",
-      "id": "2F5A7310-1147-4D05-9693-E8BCA96119B0"
+      "class": "group",
+      "id": "A6C8BE6E-1654-447D-A086-E5E2F0DD2373"
     }
   ],
   "name": "Artboard",
@@ -98,8 +61,9 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 56,
+    "base": 0,
     "guides": [
+      306
     ]
   }
 }
