@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "5311A464-7548-4D08-9ECB-14C516964598",
+  "do_objectID": "2EDCE7E5-8C15-48D7-A1DD-AA308C852B8E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 2,
-    "x": 932,
-    "y": 443
+    "height": 16,
+    "width": 124,
+    "x": 739,
+    "y": 119
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,12 +24,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 1,
-  "name": "Time divider",
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Dot with label Copy 5",
   "nameIsFixed": false,
+  "overrides": {
+    "197110CA-5E88-4F33-B02F-C1F6597147A7": "Filters work well"
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -40,6 +43,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "95134785-081B-4F5E-A4A5-25D1960E5CC2",
+  "symbolID": "0752913D-D0CD-464F-9741-ABC948CABBBD",
   "verticalSpacing": 0
 }

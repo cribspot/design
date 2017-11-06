@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "ED688DC2-D773-4445-B3AE-C72A371FC7D9",
+  "do_objectID": "4D5C2393-F93F-4A1B-82E9-7ACAC9C7E9BB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 69,
-    "x": 300,
-    "y": 216
+    "width": 144,
+    "x": 1257,
+    "y": 151
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,9 +28,10 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Dot with label",
+  "name": "Dot with label Copy 8",
   "nameIsFixed": false,
   "overrides": {
+    "197110CA-5E88-4F33-B02F-C1F6597147A7": "Found good options"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
