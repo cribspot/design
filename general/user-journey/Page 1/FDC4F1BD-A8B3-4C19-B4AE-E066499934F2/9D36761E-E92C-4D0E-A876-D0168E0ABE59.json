@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "EF80CBB3-D790-4B34-A313-E8362BCA2AEA",
+  "_class": "symbolInstance",
+  "do_objectID": "9D36761E-E92C-4D0E-A876-D0168E0ABE59",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,35 +13,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 317,
+    "width": 1418,
+    "x": 42,
+    "y": 57
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "FDC4F1BD-A8B3-4C19-B4AE-E066499934F2"
-    },
-    {
-      "class": "artboard",
-      "id": "C246D474-2A79-40E1-A52F-DB1D3A268D51"
-    }
-  ],
-  "name": "Page 1",
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Dashed timeline",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -53,10 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "11E49360-FBB5-4FC4-979F-4785CB3688CC",
+  "verticalSpacing": 0
 }
