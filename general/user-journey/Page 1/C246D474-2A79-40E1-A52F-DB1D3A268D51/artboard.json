@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "-journey",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -42,56 +51,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "5E30EA7A-78FF-4361-8314-F08EB249FD49"
+      "class": "group",
+      "id": "3DB7E1F3-0F6E-40E4-83E3-362D93CD4862"
     },
     {
-      "class": "symbolInstance",
-      "id": "A809F2AB-C4F3-41F8-8241-C359FD07A047"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "922611FA-9145-4B85-8A29-51F44C416A8E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0B1DB492-7195-4B8C-BABF-6D8DA26D6D2C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5311A464-7548-4D08-9ECB-14C516964598"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F12782A1-8497-450D-B345-3BFCFB688714"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "515021C9-31F1-4BBD-950E-78229C47022E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C2AD1B73-ED54-4B7E-A8AD-47A4706D1E91"
-    },
-    {
-      "class": "text",
-      "id": "9382F6B9-9B13-40CE-8883-F4E60C7DA988"
-    },
-    {
-      "class": "text",
-      "id": "CA20F59A-77C4-49D1-982D-7E7E95AFF0EB"
-    },
-    {
-      "class": "text",
-      "id": "5819D546-D6A5-448F-A7C2-1BEB0F6993E2"
-    },
-    {
-      "class": "text",
-      "id": "09008DFD-ED07-40F9-9A17-B53B203E239D"
-    },
-    {
-      "class": "text",
-      "id": "6B4B6EDA-99EE-48AA-B56B-D355DA2B4C90"
+      "class": "group",
+      "id": "35868532-186C-4491-A683-C8DD0DCC378F"
     },
     {
       "class": "text",
@@ -112,18 +77,6 @@
     {
       "class": "text",
       "id": "18945B07-2C41-4A91-AF71-32A5C7717BDB"
-    },
-    {
-      "class": "text",
-      "id": "5E41B1E3-1438-4DC9-9848-E66B2A4C2BBC"
-    },
-    {
-      "class": "text",
-      "id": "A4B27601-7EC7-416E-96D7-EE6E61982F1B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "310AB3C4-67E5-411F-A708-5BD32E31A26C"
     },
     {
       "class": "symbolInstance",
@@ -160,17 +113,9 @@
     {
       "class": "symbolInstance",
       "id": "3461481C-F800-4BF6-8F88-96F436039B97"
-    },
-    {
-      "class": "text",
-      "id": "4E5DE9FD-AB12-4726-9CDA-1D18E17F6275"
-    },
-    {
-      "class": "text",
-      "id": "9FB54CBF-8DF2-4C70-B242-371FD49F11B3"
     }
   ],
-  "name": "Search",
+  "name": "search",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

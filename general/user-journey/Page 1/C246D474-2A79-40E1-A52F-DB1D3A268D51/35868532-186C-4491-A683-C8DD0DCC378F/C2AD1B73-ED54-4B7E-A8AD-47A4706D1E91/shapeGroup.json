@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "5E30EA7A-78FF-4361-8314-F08EB249FD49",
+  "do_objectID": "C2AD1B73-ED54-4B7E-A8AD-47A4706D1E91",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,9 +15,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 2,
-    "width": 1318,
-    "x": 142,
-    "y": 459
+    "width": 1366,
+    "x": 52,
+    "y": 160
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,10 +29,10 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "259DE0E4-18BC-462D-A019-F29179C3B38E"
+      "id": "D8417291-3AC4-477A-A22D-89E8168B23C2"
     }
   ],
-  "name": "Solid timeline",
+  "name": "Dashed timeline",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,6 +43,7 @@
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
+        8
       ],
       "isEnabled": false,
       "lineCapStyle": 2,
@@ -61,7 +62,7 @@
         "fillType": 0,
         "isEnabled": true,
         "position": 0,
-        "thickness": 2
+        "thickness": 1
       }
     ],
     "endDecorationType": 0,
