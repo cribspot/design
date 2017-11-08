@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Dot with label Copy",
-  "nameIsFixed": false,
+  "name": "Dot with label",
+  "nameIsFixed": true,
   "overrides": {
     "197110CA-5E88-4F33-B02F-C1F6597147A7": "Looking us up"
   },

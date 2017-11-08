@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "90016790-5EC7-485F-8C30-7784C98A07DC",
+  "do_objectID": "920B5FDA-80A4-40A2-B365-889813979ED9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 144,
-    "x": 1003,
-    "y": 294
+    "width": 164,
+    "x": 211,
+    "y": 321
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,10 +28,10 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Dot with label",
+  "name": "Dot with label Copy",
   "nameIsFixed": true,
   "overrides": {
-    "197110CA-5E88-4F33-B02F-C1F6597147A7": "Visit competitors"
+    "197110CA-5E88-4F33-B02F-C1F6597147A7": "Not showing up in results"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "90016790-5EC7-485F-8C30-7784C98A07DC",
+  "do_objectID": "08933AFF-32AC-42C7-BDC8-3F10FF18A3B8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 144,
-    "x": 1003,
-    "y": 294
+    "width": 124,
+    "x": 211,
+    "y": 178
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,7 +31,7 @@
   "name": "Dot with label",
   "nameIsFixed": true,
   "overrides": {
-    "197110CA-5E88-4F33-B02F-C1F6597147A7": "Visit competitors"
+    "197110CA-5E88-4F33-B02F-C1F6597147A7": "Making fun plans asdfas asdf"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

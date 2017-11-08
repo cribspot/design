@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "90016790-5EC7-485F-8C30-7784C98A07DC",
+  "do_objectID": "2291A7D8-9627-401F-9659-B8930F7B1CC2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 144,
-    "x": 1003,
-    "y": 294
+    "height": 44,
+    "width": 1420,
+    "x": 42,
+    "y": 432
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,15 +24,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Dot with label",
-  "nameIsFixed": true,
-  "overrides": {
-    "197110CA-5E88-4F33-B02F-C1F6597147A7": "Visit competitors"
-  },
+  "name": "Solid timeline",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -43,6 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "0752913D-D0CD-464F-9741-ABC948CABBBD",
+  "symbolID": "E953CAE9-9497-43A3-8735-A750EF4D6707",
   "verticalSpacing": 0
 }
